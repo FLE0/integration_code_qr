@@ -1,0 +1,43 @@
+.blanco {
+    display: block;
+    background-color: white;
+    width: 320px;
+    height: 497px;
+    border-radius: 7%;
+    margin: auto;
+}
+
+body{
+    background-color: gold;
+}
+
+.blabla{
+    position: relative;
+    top: 30px; left: 16px;
+    width: 288px;
+    text-align: center;
+}
+
+.bleu{
+    background-color: blue;
+    width: 288;
+    height: 288;
+    border-radius: 7.5%;
+    margin-top: 25%;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 16px;
+}
+
+
+.image{
+    margin: auto;
+    margin-block-start: 70px;
+}
+
+
+
+#text {
+    font-size: 20px;
+}
